@@ -1,0 +1,374 @@
+@media (max-width: 1125px) {
+	.start {
+    right: 8px;
+    bottom: 185px;
+    width: 21%;
+	}
+	.torus3 {
+    bottom: 65px;
+	}
+	.clients__col--second {
+    padding-right: 0px;
+	}
+	.col__item {
+    width: 45%;
+    top: 0;
+    padding-right: 0;
+	}
+	.client-youtube {
+    right: 125px;
+	}
+	.client-sphere {
+    bottom: 20px;
+    left: -120px;
+	}
+}
+
+@media (max-width: 1000px) {
+	.intro__title {
+    font-size: 140px;
+	}
+	.torus2 {
+    top: -60px;
+	}
+	.note {
+    left: 200px;
+	}
+	.client-youtube {
+    right: 70px;
+	}
+}
+@media (max-width: 900px) {
+	.intro__title {
+    font-size: 120px;
+	}
+	.foryou {
+    width: 80%;
+	}
+	.note {
+    left: 150px;
+	}
+	.clients__col--first {
+    padding: 0 40px 40px 0;
+    width: 100%;
+    max-width: 100%;
+    }
+	.clients__col--second {
+    width: 100%;
+    padding: 40px 0 40px 40px;
+	}
+	.col__item {
+    width: 33.33333%;
+	}
+	.client-circle {
+    top: -17px;
+    left: -130px;
+	}
+	.client-youtube {
+    right: -15px;
+    top: 310px;
+	}
+	.client-sphere {
+    bottom: 60px;
+    left: -75px;
+	}
+	.tab-list {
+    width: 100%;
+	}
+	.content-wrap {
+    width: 100%;
+	}
+	.tab__image {
+    width: 70%;
+	}
+}
+
+@media (max-width: 800px)  {
+	.camera {
+    left: 0px;
+    bottom: 70px;
+	}
+	.note {
+    width: 10%;
+	}
+	.torus3 {
+    bottom: 100px;
+    width: 15%;
+	}
+}
+
+
+@media (max-width: 780px) {
+	.intro__title {
+    font-size: 100px;
+    line-height: 70px;
+	}
+	.foryou {
+    width: 65%;
+	}
+	.start {
+    width: 25%;
+	}
+	.start {
+    bottom: 240px;
+    right: 5px;
+	}
+	.torus3 {
+    right: 25px;
+    bottom: 110px;
+	}
+	.headphone1 {
+    top: 60px;
+    left: 45px;
+    width: 19%;
+	}
+	.camera {
+    bottom: 150px;
+	}
+	.note {
+    bottom: 80px;
+	}
+	.col__item {
+    width: 50%;
+    padding: 0 40px;
+	}
+	.client-circle {
+    left: -90px;
+	}
+	.client-sphere {
+    left: -35px;
+	}
+	.tab__content {
+    top: 140px;
+	}
+}
+
+@media (max-width: 740px) {
+	.heart {
+	    position: absolute;
+	    bottom: -30px;
+	    left: 50px;
+	}
+	.lettering {
+    top: -15px;
+	}
+}
+@media (max-width: 700px) {
+	.intro__inner {
+		padding-top: 30px;
+	}
+	.intro__title {
+    font-size: 70px;
+    line-height: 70px;
+    margin-bottom: 160px;
+	}
+	.youtube {
+    right: 20px;
+	}
+	.torus2 {
+    right: 250px;
+	}
+	.tab__text {
+    font-size: 25px;
+    line-height: 38px;
+	}
+}
+
+@media (max-width: 640px) {
+	.col__item {
+    padding: 0 40px;
+	}
+	.clients__col--second {
+    padding: 0; 
+	}
+	.client-circle {
+    top: -55px;
+    left: -130px;
+	}
+	.client-youtube {
+    right: -10px;
+    top: 270px;
+	}
+	.client-sphere {
+    left: -75px;
+	}
+	.circle {
+    top: 220px;
+	}
+}
+
+@media (max-width: 600px) {
+	.youtube {
+    right: 0px;
+	}
+	.cols {
+    margin: 0 auto;
+    max-width: 280px;
+	}
+	.col__item {
+    width: 100%;
+	}
+	.tab__content {
+    top: 100px;
+	}
+	.tab__text {
+    font-size: 20px;
+    line-height: 25px;
+	}
+	.heart {
+    bottom: -50px;
+    left: 10px;
+	}
+	.lettering2 {
+    top: -25px;
+	}
+	.circle {
+    top: 345px;
+	}
+	.torus {
+    right: 5px;
+	}
+} 
+
+@media (max-width: 540px)  {
+	.note-small {
+	    right: -15px;
+	}
+	.tab-list .tab {
+    width: 137px;
+    height: 142px;
+	}
+}
+
+@media (max-width: 500px)  {
+	.headphone1 {
+    top: 70px;
+	}
+	.torus2 {
+    right: 160px;
+	}
+	.youtube, .torus2 {
+    top: -30px;
+	}
+	.youtube {
+    width: 40%;
+	}
+	.note {
+    left: 110px;
+    width: 20%;
+    bottom: 70px;
+	}
+	.foryou {
+    top: 36%;
+	}
+	.camera {
+    left: 20px;
+    bottom: 90px;
+	}
+	.intro__title {
+    font-size: 50px;
+    line-height: 50px;
+    margin-bottom: 70px;
+	}
+	.tab__content {
+    top: 175px;
+	}
+	.lettering2 {
+    top: 30px;
+	}
+	.lettering {
+    top: 40px;
+	}
+	.slick-slider {
+    padding: 0 60px;
+	}
+	.circle {
+    left: -30px;
+	}
+}
+
+@media (max-width: 460px) {
+	.start {
+    bottom: 290px;
+	}
+	.torus {
+    width: 60%;
+	}
+}
+
+@media (max-width: 400px)  {
+	.youtube {
+    right: 0px;
+    width: 50%;
+    top: 50px;
+	}
+	.torus2 {
+    top: 25px;
+    width: 30%;
+    right: 100px;
+	}
+	.intro__title {
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 40px;
+	}
+	.foryou {
+    top: 41%;
+    width: 55%;
+	}
+	.tab__content {
+    top: 140px;
+	}
+	.lettering2 {
+    left: 0px;
+	}
+	.circle {
+    top: 280px;
+	}
+    .note-small {
+    right: 70px;
+	}
+	.tab-list .tab {
+    width: 70px;
+    height: 87px;
+	}
+	.tab-list .tab {
+	}
+}
+
+@media (max-width: 380px)  {
+	.start {
+    bottom: 180px;
+	}
+	.lettering {
+    top: 0px;
+	}
+	.torus {
+    top: -50px;
+	}
+}
+
+@media (max-width: 340px) {
+	.tab__content {
+	    top: 100px;
+	}
+	.slick-slider {
+    padding: 0 40px;
+	}
+	.circle {
+    left: -80px;
+	}
+}
+
+@media (max-width: 320px)  {
+	.cols {
+    margin: 0 auto;
+    max-width: 200px;
+	}
+	.col__item {
+    padding: 0;
+	}
+	.client-sphere {
+	display: none;
+	}
+}
